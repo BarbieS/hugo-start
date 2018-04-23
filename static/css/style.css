@@ -1,15 +1,18 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+  margin-left: 50px;
+  max-width: 900px;
+  padding: 0px;
 }
 
 header {
-  padding: 30px 10px 20px;
+  padding: 0px 0px 0px;
   border: dotted;
   background-image: url('https://www.knowledge.ca/sites/knowledge.ca/files/styles/show_page/public/shows/miss-fisher-s3-show.jpg?itok=lstqptps');
+  background-size: 1500px;
   font-size: 23px;
   color: #4d004d;
+  width: 1500px;
+  height: 300px;
 }
 
 footer {
