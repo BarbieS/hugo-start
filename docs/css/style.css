@@ -1,17 +1,25 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+  margin-left: 50px;
+  max-width: 900px;
+  padding: 0px;
 }
 
 header {
-  padding: 30px 0 0;
-  border-bottom: solid;
+  padding: 0px 0px 0px;
+  border: dotted;
+  background-image: url('https://www.knowledge.ca/sites/knowledge.ca/files/styles/show_page/public/shows/miss-fisher-s3-show.jpg?itok=lstqptps');
+  background-size: 1500px;
+  font-size: 23px;
+  color: #4d004d;
+  width: 1500px;
+  height: 300px;
 }
 
 footer {
   border-top: solid;
+  padding: 30px 10px 20px;
   clear: both;
+  text-align: center;
 }
 
 .page {
@@ -27,6 +35,7 @@ aside {
   float: left;
   width: 25%;
   margin-top: 1em;
+  font-size: 20px;
 }
 
 nav ul {
@@ -40,4 +49,9 @@ nav li {
 
 nav .active {
   font-weight: bold;
+}
+body {
+  font-size: 15px;
+  font-family: Helvetica;
+  background-color: #f9ecf9;
 }
