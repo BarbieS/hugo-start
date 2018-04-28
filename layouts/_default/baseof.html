@@ -20,6 +20,8 @@
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
+      <p class="authors">{{ .Site.Params.authors }}</p>
+      <p class="lastdate">{{ .Site.LastChange }}</p>
     </header>
 
     <div class="page">
