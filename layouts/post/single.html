@@ -3,4 +3,5 @@
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
    <p class="authors">{{ .Site.Params.Authors }}</p>
   {{ .Content }}
+ {{ .FuzzyWordCount }}
 {{ end }}
