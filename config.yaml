@@ -2,7 +2,6 @@ title: Vražedné záhady slečny Fisherovej alebo dáma detektívka
 baseURL: https://barbies.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
-lastdate: date
 
 menu:
   main:

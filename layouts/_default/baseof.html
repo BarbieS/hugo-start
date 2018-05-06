@@ -13,15 +13,13 @@
 
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "docs/css/style.css" | relURL }}">
 </head>
 <body>
   <div class="wrapper">
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
-      <p class="authors">{{ .Site.Params.authors }}</p>
-      <p class="lastdate">{{ .Site.LastChange }}</p>
     </header>
 
     <div class="page">
@@ -32,7 +30,7 @@
 
     <footer>
       <p>
-        <a style="box-shadow: none" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ "/images/cc80x15.png" | relURL }}" /></a><br>
+        <a style="box-shadow: none" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ "css/style.css" | relURL }}" /></a><br>
         This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><b>Creative Commons</b> Attribution-ShareAlike 4.0 International License</a>.
       </p>
     </footer>
