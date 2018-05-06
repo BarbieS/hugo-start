@@ -6,10 +6,10 @@ publishDir: docs
 
 menu:
   main:
-    - name: Homepage
+    - name: Domov
       url: /
       weight: 10
-    - name: Archive
+    - name: Archív
       identifier: post
       url: /post/
       weight: 20
