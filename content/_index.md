@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Domov
 ---
 
-# Vražedné Vražedné záhady slečny Fisherové neboli dáma detektivka
+# Vražedné záhady slečny Fisherové neboli dáma detektivka
 
 Vítejte na stránce věnované populárnímu australskému detektivnímu seriálu.
 

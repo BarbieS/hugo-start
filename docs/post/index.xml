@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archive on Vražedné záhady slečny Fisherovej alebo dáma detektívka</title>
+    <title>Archív on Vražedné záhady slečny Fisherovej alebo dáma detektívka</title>
     <link>https://barbies.github.io/hugo-start/post/</link>
-    <description>Recent content in Archive on Vražedné záhady slečny Fisherovej alebo dáma detektívka</description>
+    <description>Recent content in Archív on Vražedné záhady slečny Fisherovej alebo dáma detektívka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 28 Apr 2018 12:12:57 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 20:20:57 +0200</lastBuildDate>
     
 	<atom:link href="https://barbies.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kerry Greenwood</title>
+      <link>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</link>
+      <pubDate>Sat, 28 Apr 2018 20:20:57 +0200</pubDate>
+      
+      <guid>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</guid>
+      <description>Kerry Greenwood je australská spisovatelka, podle jejíž předlohy byl seriál natočen. Kerry je autorkou mnoha divadelních her a knih, jejím nejvýraznějším počinem jsou ale právě detektivní příběhy s hlavní postavou Phryne Fisher. Píše také science-fiction, historické knihy a povídky pro děti. Kerry se narodila 17. června 1954 v australském Melbourne, kde vystudovala i dvě univerzity a v roce 1979 získala tituly Bachelor of Arts a Bachelor of Laws – během studií pracovala v azylovém domě pro ženy, a než se stala spisovatelkou „na plný úvazek“, strávila část svého života prací u soudu, kde pracovala jako obhájce.</description>
+    </item>
     
     <item>
       <title>Essie Davis</title>
@@ -43,15 +52,6 @@ Téma seriálu Vražedné záhady slečny Fisherovej bola pôvodným nápadom Fi
       
       <guid>https://barbies.github.io/hugo-start/post/newpost/</guid>
       <description>Prvý trailer k sérii Vražedné záhady slečny Fisherovej. Vložila som ho preto, aby každý uvidel krátku upútavku na to, aký tento seriál vlastne je.</description>
-    </item>
-    
-    <item>
-      <title>Kerry Greenwood</title>
-      <link>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</guid>
-      <description>Kerry Greenwood je australská spisovatelka, podle jejíž předlohy byl seriál natočen. Kerry je autorkou mnoha divadelních her a knih, jejím nejvýraznějším počinem jsou ale právě detektivní příběhy s hlavní postavou Phryne Fisher. Píše také science-fiction, historické knihy a povídky pro děti. Kerry se narodila 17. června 1954 v australském Melbourne, kde vystudovala i dvě univerzity a v roce 1979 získala tituly Bachelor of Arts a Bachelor of Laws – během studií pracovala v azylovém domě pro ženy, a než se stala spisovatelkou „na plný úvazek“, strávila část svého života prací u soudu, kde pracovala jako obhájce.</description>
     </item>
     
   </channel>
