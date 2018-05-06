@@ -6,10 +6,19 @@
     <description>Recent content in Archive on Vražedné záhady slečny Fisherovej alebo dáma detektívka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 28 Apr 2018 12:12:57 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 20:20:05 +0200</lastBuildDate>
     
 	<atom:link href="https://barbies.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kerry Greenwood</title>
+      <link>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</link>
+      <pubDate>Sat, 28 Apr 2018 20:20:05 +0200</pubDate>
+      
+      <guid>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</guid>
+      <description>Kerry Greenwood je australská spisovatelka, podle jejíž předlohy byl seriál natočen. Kerry je autorkou mnoha divadelních her a knih, jejím nejvýraznějším počinem jsou ale právě detektivní příběhy s hlavní postavou Phryne Fisher. Píše také science-fiction, historické knihy a povídky pro děti. Kerry se narodila 17. června 1954 v australském Melbourne, kde vystudovala i dvě univerzity a v roce 1979 získala tituly Bachelor of Arts a Bachelor of Laws – během studií pracovala v azylovém domě pro ženy, a než se stala spisovatelkou „na plný úvazek“, strávila část svého života prací u soudu, kde pracovala jako obhájce.</description>
+    </item>
     
     <item>
       <title>Essie Davis</title>
@@ -17,22 +26,23 @@
       <pubDate>Sat, 28 Apr 2018 12:12:57 +0200</pubDate>
       
       <guid>https://barbies.github.io/hugo-start/post/clanok/</guid>
-      <description>Essie Davis je meno austrálskej herečky, ktorá bravúrne stvárnila postovu slečny Fisherovej. Narodila sa 07.01.1970. Okrem role slečny Fisherovej ste ju mohli vidieť napríklad v populárnom seriáliGame of Thrones, kde stvárnila postovu Lady Crane v šiestej sérii.
-Essie „Esther“ Davis má za sebou množstvo filmov a seriálov. V roku 2014 získala niekoľko ocenení v kategórii Najlepšia herečka. Prevažne išlo o jej účinkovanie v australskom supernaturálnom psychologickom horore The Badadook. Stvárnila tam hlavnú postavu Ameliu Vanek, vdovu so synom, ktorú po prečítaní knihy začne prenasledovať strašidelný Babadook.</description>
+      <description>Essie Davis je meno austrálskej herečky, ktorá bravúrne stvárnila postovu slečny Fisherovej. Narodila sa 07.01.1970. Okrem role slečny Fisherovej ste ju mohli vidieť napríklad v populárnom seriáli Game of Thrones, kde stvárnila postavu Lady Crane v šiestej sérii.
+ 
+Essie „Esther“ Davis má za sebou množstvo filmov a seriálov. V roku 2014 získala niekoľko ocenení v kategórii Najlepšia herečka. Prevažne išlo o jej účinkovanie v austrálskom supernaturálnom psychologickom horore The Badadook.</description>
     </item>
     
     <item>
-      <title>Team</title>
+      <title>Náš tým</title>
       <link>https://barbies.github.io/hugo-start/post/team/</link>
       <pubDate>Sat, 31 Mar 2018 17:29:57 +0200</pubDate>
       
       <guid>https://barbies.github.io/hugo-start/post/team/</guid>
-      <description>Náš tým Členovia tímu: Barbora Schreiberová, Pavla Rimešová, Zuzana Stanková
+      <description>Členovia tímu: Barbora Schreiberová, Pavla Rimešová, (Zuzana Stanková)
 Členkami nášho pracovného tímu (ďalej len Fisherky) sú tri študentky Informačních studií a knihovnictví na Masarykovej univerzite. Rovnako záhadné, elegantné a vražedne odvážne ako slečna Fisherová.
 Fisherky:
-Pavla – brilantná, rozhodná, skvostná Zuzana – fantastická, zábavná, spontánna Barbora – úžasná, rozumná, cnostnná
+Pavla – brilantná, rozhodná, skvostná Barbora – úžasná, rozumná, cnostnná (Zuzana – fantastická, zábavná, spontánna)
 Motivácia k téme:
-Téma seriálu Vražedné záhady slečny Fisherovej bola pôvodným nápadom Fisherky Barbory ku predmetu Nástroje a možnosti internetu.</description>
+Téma seriálu Vražedné záhady slečny Fisherovej bola pôvodným nápadom Fisherky Barbory ku predmetu Nástroje a možnosti internetu. K jej nápadu sa pridala aj Pavla (a Zuzana).</description>
     </item>
     
     <item>
@@ -42,36 +52,6 @@ Téma seriálu Vražedné záhady slečny Fisherovej bola pôvodným nápadom Fi
       
       <guid>https://barbies.github.io/hugo-start/post/newpost/</guid>
       <description>Prvý trailer k sérii Vražedné záhady slečny Fisherovej. Vložila som ho preto, aby každý uvidel krátku upútavku na to, aký tento seriál vlastne je.</description>
-    </item>
-    
-    <item>
-      <title>All albums of The Beatles</title>
-      <link>https://barbies.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://barbies.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>https://barbies.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://barbies.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title>Kerry Greenwood</title>
-      <link>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://barbies.github.io/hugo-start/post/%C4%8Dl%C3%A1nek/</guid>
-      <description>Kerry Greenwood je australská spisovatelka, podle jejíž předlohy byl seriál natočen. Kerry je autorkou mnoha divadelních her a knih, jejím nejvýraznějším počinem jsou ale právě detektivní příběhy s hlavní postavou Phryne Fisher. Píše také science-fiction, historické knihy a povídky pro děti. Kerry se narodila 17. června 1954 v australském Melbourne, kde vystudovala i dvě univerzity a v roce 1979 získala tituly Bachelor of Arts a Bachelor of Laws - během studií pracovala v azylovém domě pro ženy, a než se stala spisovatelkou &amp;ldquo;na plný úvazek&amp;rdquo;, strávila část svého života prací u soudu, kde pracovala jako obhájce.</description>
     </item>
     
   </channel>
