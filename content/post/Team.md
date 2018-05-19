@@ -17,3 +17,5 @@ draft: false
 **Motivácia k téme:**
 
 Téma seriálu Vražedné záhady slečny Fisherovej bola pôvodným nápadom Fisherky Barbory ku predmetu Nástroje a možnosti internetu. K jej nápadu sa pridala aj Pavla (a Zuzana). Motivácia je preto očividná. Okrem skvelého seriálu, ktorý nás zaujal a prakticky sa mu nik na česko-slovenskej internetovej scéne nevenuje, aj malé zelené políčko.
+
+<div class="fb-like" data-href="https://barbies.github.io/hugo-start/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>

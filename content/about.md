@@ -95,6 +95,7 @@ Vizuálně by měl být web co nejjednoduší, ale i přes jednoduchost by měl 
 
 http://www.agatha-christie.cz/ http://www.arthurconandoyle.com/ 
 
+<div class="fb-like" data-href="https://barbies.github.io/hugo-start/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 
 This is a minimal [Hugo][] website created for a course [VIKBA07][].
 

@@ -18,3 +18,5 @@ Essie „Esther“ Davis má za sebou množstvo filmov a seriálov. V roku 2014 
 
 
 <blockquote> „I feel lucky that I've managed to get the roles I've wanted.“ </blockquote> </center>
+
+<div class="fb-like" data-href="https://barbies.github.io/hugo-start/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
